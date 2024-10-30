@@ -1,0 +1,12 @@
+.condiv { padding-top:10px; text-align:left; }
+.condiv h1{ font-size:24px; color:#000000; background-color:transparent; font-weight:bold; }
+.bcf_txt{ font-size:14px; }
+.fheading{ font-size:11px; color:#000000; background-color:transparent; font-weight:bold; }
+.BCFInput{ width:500px; }
+.BCFSubmit{ background-color:#0085ba; padding:12px; border:none; appearance:button; color:#FFFFFF; font-family:Tahoma, Arial; font-weight:bold; border-radius:5px; font-size:15px; letter-spacing:1px; }
+input[type="color" i]{ width:500px; }
+.bcf_frmSuccessAdmin{ color:#37c83f; font-size:14px; font-family:tahoma, Verdana, Arial; font-weight:bold; }
+.bcf_frmErrorAdmin{ color:#ff0000; font-size:14px; font-family:tahoma, Verdana, Arial; font-weight:bold; }
+.bcf_frmerr{ color:#ff0000; font-size:11px; font-style:italic; font-family:tahoma, Verdana, Arial; font-weight:bold; }
+.bcf_dn{ display:none; }
+.bcf_mtop{ margin-top:10px; }
